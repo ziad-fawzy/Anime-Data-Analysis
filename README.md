@@ -61,6 +61,6 @@ The dataset was obtained from Kaggle and contains information on anime user pref
 ## 🔗 Project Links
 To view the full interactive code and results, you can access the notebook directly via Google Colab:
 
-[![Open In Colab]([https://colab.research.google.com/drive/1KADlvjl0MFZoZNvGHcSGJXjrQi-brFRu?usp=sharing)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KADlvjl0MFZoZNvGHcSGJXjrQi-brFRu?usp=sharing)
 
 
