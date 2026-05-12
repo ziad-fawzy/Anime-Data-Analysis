@@ -45,7 +45,7 @@ The dataset was obtained from Kaggle and contains information on anime user pref
 
 ### 3. Exploratory Data Analysis (EDA)
 * **Rating Distribution:** Visualized the density of ratings across the entire dataset.
-* ![Rating Distribution](./Rating Distribution.png)
+* ![Rating Distribution](./EDA/Rating Distribution.png)
 * **Type Analysis:** Compared average ratings between Movies and TV series using Boxplots.
 * **Genre Popularity:** Extracted individual genres to find the most frequent categories using a WordCloud.
 *
