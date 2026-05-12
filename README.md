@@ -58,4 +58,9 @@ The dataset was obtained from Kaggle and contains information on anime user pref
 * **Genre Dominance:** Comedy and Action are the most frequent genres, but Drama often holds higher average ratings.
 * ![Top 10 Anime Genres](./EDA/Top%2010%20Anime%20Genres.png)
 *
+## 🔗 Project Links
+To view the full interactive code and results, you can access the notebook directly via Google Colab:
+
+[![Open In Colab]([https://colab.research.google.com/drive/1KADlvjl0MFZoZNvGHcSGJXjrQi-brFRu?usp=sharing)]
+
 
