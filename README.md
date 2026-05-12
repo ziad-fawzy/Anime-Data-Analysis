@@ -47,11 +47,15 @@ The dataset was obtained from Kaggle and contains information on anime user pref
 * **Rating Distribution:** Visualized the density of ratings across the entire dataset.
 * ![Rating Distribution](./EDA/Rating%20Distribution.png)
 * **Type Analysis:** Compared average ratings between Movies and TV series using Boxplots.
+* ![Rating by Content Type](./EDA/Rating%20by%20Content%20Type.png)
 * **Genre Popularity:** Extracted individual genres to find the most frequent categories using a WordCloud.
+* ![Genre Popularity](./EDA/wordcloud.png)
 *
 ## Key Insights 💡
 * **Movies vs. TV:** Movies tend to have higher and more consistent ratings compared to long-running TV series.
 * **Success Filtration:** "Super Long" series (100+ episodes) maintain very high ratings, as only the most successful shows are allowed to continue for that long.
+* ![Rating by Episode Category](./EDA/Anime%20Rating%20by%20Episode%20Category.png)
 * **Genre Dominance:** Comedy and Action are the most frequent genres, but Drama often holds higher average ratings.
+* ![Top 10 Anime Genres](./EDA/Top%2010%20Anime%20Genres.png)
 *
-###📊 Sample Visualizations
+
